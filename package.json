@@ -1,0 +1,17 @@
+{
+  "name": "newmedianwhile",
+  "version": "1.0.0",
+  "description": "calcula a media de n valores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Media"
+  ],
+  "author": "Marcos Sato",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
